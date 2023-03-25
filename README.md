@@ -2,4 +2,4 @@ Implementation of contracts for [ERC-4337](https://eips.ethereum.org/EIPS/eip-43
 
 # Resources
 
-[Vitalik's post on account abstraction without Ethereum protocol changes](https://bitindi.medium.com/what-is-erc-4337-account-abstraction-d4eac8033934)
+[Vitalik's account abstraction without Ethereum protocol changes](https://bitindi.medium.com/what-is-erc-4337-account-abstraction-d4eac8033934)
